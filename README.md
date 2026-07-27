@@ -2,7 +2,7 @@
 readme_content = """<div align="center">
 
   <!-- Header Banner -->
-  <img src="banner.png" alt="CodeNexus Banner" width="100%" />
+  <img src="banner1.png" alt="CodeNexus Banner" width="100%" />
 
   <br/><br/>
 
