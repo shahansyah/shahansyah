@@ -1,5 +1,4 @@
-# Create a downloadable Markdown file for the user's GitHub README
-readme_content = """<div align="center">
+
 
   <!-- Header Banner -->
   <img src="banner1.png" alt="CodeNexus Banner" width="100%" />
