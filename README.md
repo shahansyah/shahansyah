@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./assets/pacman-banner.svg" alt="CODENEXUS" />
+</div>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=36&pause=1000&color=FFFFFF&center=true&vcenter=true&width=1200&lines=Greetings%2C+wanderer!+I'm+Shahan+Syah+Naufal+Abdullah!;Welcome+to+My+Github!;" alt="Typing SVG" />
   </a>
