@@ -1,0 +1,75 @@
+<svg viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <clipPath id="revealClip">
+      <rect x="0" y="0" width="0" height="140">
+        <animate attributeName="width" values="0;900" keyTimes="0;1" dur="8.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <style>
+      .dim { fill: #163a55; font-size: 46px; font-weight: bold; letter-spacing: 6px; }
+      .bright { fill: #55e6ff; font-size: 46px; font-weight: bold; letter-spacing: 6px; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="800" height="140" rx="14" fill="#05070d"/>
+  <rect x="0" y="0" width="800" height="140" rx="14" fill="none" stroke="#1c2a3a" stroke-width="2"/>
+
+  <text x="90" y="82" class="dim">CODENEXUS</text>
+
+  <g clip-path="url(#revealClip)">
+    <text x="90" y="82" class="bright" style="filter:drop-shadow(0 0 6px #55e6ff)">CODENEXUS</text>
+  </g>
+
+  <circle cx="90" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.1430;0.1630;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="145" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.2028;0.2228;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.2626;0.2826;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="255" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.3224;0.3424;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="310" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.3822;0.4022;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="365" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.4420;0.4620;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="420" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.5017;0.5217;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="475" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.5615;0.5815;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="530" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.6213;0.6413;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="585" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.6811;0.7011;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="640" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.7409;0.7609;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="695" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.8007;0.8207;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="90" r="4" fill="#7fd7ff">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.8604;0.8804;1.0000" dur="8.0s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- pacman (based on user-provided artwork) -->
+  <g transform="translate(0,90)">
+    <animateTransform attributeName="transform" additive="sum" type="translate"
+      values="-60,0;860,0" keyTimes="0;1" dur="8.0s" repeatCount="indefinite" calcMode="linear"/>
+    <g transform="scale(0.10843) translate(-330.0,-483.36218)">
+      <path style="stroke-linejoin:round;stroke:#ffffff;stroke-width:1.5;fill:#ffe600">
+        <animate attributeName="d" values="M480.81,421.94 A166.0,147.0 0 1,1 489.00,441.12 L330.0,483.36218 Z;M395.66,348.35 A166.0,147.0 0 1,1 480.08,546.18 L330.0,483.36218 Z;M480.81,421.94 A166.0,147.0 0 1,1 489.00,441.12 L330.0,483.36218 Z" dur="0.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="m-346 457.36a19 17 0 1 1 -38 0 19 17 0 1 1 38 0z" transform="translate(668,-50)"
+            style="fill:#111"/>
+    </g>
+  </g>
+</svg>
