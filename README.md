@@ -16,12 +16,37 @@
     <a href="https://t.me/ShahanSyah"><img src="https://img.shields.io/badge/-Telegram-74c7ec?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
 </div>
 
-
+## 👻 A little about me... 
 <a href="https://github.com/shahansyah">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=shahansyah&data=followers,repositories,stars,commits&theme=dark" alt="DIMFLIX GitHub Stats" />
 </a> 
+<br>
+<p align="justify">
+  👋 <b>Hi,I'm Muhammad Shahan Syah Naufal Abdullah!</b> A passionate <b>Full-Stack Developer</b> who loves bridging the gap between intuitive front-end designs and robust back-end systems. I enjoy building seamless web applications, exploring modern technologies, and turning complex problems into clean, efficient code. When I’m not coding, you’ll probably find me tweaking my dev setup or diving into new tools!
+</p>
+At the moment, I’m learning about lots of tools and frameworks that I’m still unfamiliar with, as I’m convinced that learning as much as possible is essential for further development....😄️
 
-
+```js
+const shahansyah = {
+  OS: ["Ubuntu"],
+  languages: {
+    highLevel: ["Python", "SQL"],
+    averageLevel: ["JavaScript", "TypeScript"],
+    baseLevel: ["HTML5", "CSS3",]
+  },
+  frameworksAndLibraries: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL"]
+  },
+  toolsAndDevEnvironment: {
+    editor: ["VS Code"],
+    terminal: ["WezTerm",],
+    versionControl: ["Git", "GitHub"],
+    devOps: ["Docker", "Nginx"]
+  }
+};
+```
 <br>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahansyah&theme=tokyo-night&hide_border=true" />
