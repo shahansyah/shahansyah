@@ -14,5 +14,15 @@
     <a href="https://x.com/Shahansyah16950"><img src="https://img.shields.io/badge/-Twitter%2FX-cba6f7?style=for-the-badge&logo=x&logoColor=000000" alt="Twitter"/></a><br>
     <a href="https://www.linkedin.com/in/shahansyah-naufal-015b6030b?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
     <a href="https://t.me/ShahanSyah"><img src="https://img.shields.io/badge/-Telegram-74c7ec?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
-    <br>
+</div>
+
+
+<a href="https://github.com/shahansyah">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=shahansyah&data=followers,repositories,stars,commits&theme=dark" alt="DIMFLIX GitHub Stats" />
+</a> 
+
+
+<br>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahansyah&theme=tokyo-night&hide_border=true" />
 </div>
