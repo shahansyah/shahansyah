@@ -77,4 +77,7 @@ const shahansyah = {
 <div align="center">
   <img width=300 src="./main.gif"/>
 </div>
+<div align="center">
+  <img src="./pacman-dots-thankyou.svg" alt="WELCOME" />
+</div>
 
