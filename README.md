@@ -72,3 +72,9 @@ const shahansyah = {
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahansyah&theme=tokyo-night&hide_border=true" />
 </div>
+
+
+<div align="center">
+  <img width=300 src="./main.gif"/>
+</div>
+
